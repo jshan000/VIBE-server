@@ -2,15 +2,16 @@
 
 ## Group Members
 
-Seoyeon Kim (Hanyang Univ)
+Seoyeon Kim (Hanyang Univ) / the Department of Tourism (관광학부) / soen0814@hanyang.ac.kr
 
-Taeyeon Kim (Hanyang Univ)
+Jiwon Han (Hanyang Univ) / Department of Business Administration (경영학부) / jiwon8623@hanyang.ac.kr
 
-Suhyen Yu (Hanyang Univ)
+Taeyeon Kim (Hanyang Univ) / Department of information system (정보시스템학과) / tangboll5075@gmail.com
 
-Soohan Jeong (Hanyang Univ)
+Suhyen Yu (Hanyang Univ) / Department of information system (정보시스템학과) / sh265826@naver.com
 
-Jiwon Han (Hanyang Univ)
+Soohan Jeong (Hanyang Univ) / Department of information system (정보시스템학과) / soohan9909@gmail.com
+
 
 ## Topic
 
