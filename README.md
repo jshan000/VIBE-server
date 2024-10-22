@@ -16,6 +16,7 @@
 ## 📖 Topic
 
 Idea background- 
+
 People who need SKT NUGU voice recognition service - We want to implement a function for those who are placed in the blind spot of information (features for the deaf)
 
 a problem situation in which the deaf are present
@@ -28,6 +29,9 @@ Issue: Response may be delayed due to failure to hear voice notifications (fire 
 Statistics: Approximately 30% of deaf people reported experiencing danger from not being aware of sound-based alerts in emergency situations
 
 Goals
+
 Development of real-time voice-to-text conversion/hazard detection apps for the deaf
+
 Objective: To help the hearing impaired by converting the voice into real-time text for easy conversation of daily conversations, 
+
 and to let them know by vibration if they hear dangerous sounds.
