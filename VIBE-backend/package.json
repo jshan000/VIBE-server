@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jshan000/AIapply#readme",
   "dependencies": {
-    "express": "^4.21.1"
+    "express": "^4.21.1",
+    "vibe": "file:"
   }
 }
