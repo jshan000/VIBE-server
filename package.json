@@ -19,6 +19,7 @@
   "homepage": "https://github.com/jshan000/VIBE-server#readme",
   "dependencies": {
     "express": "^4.21.1",
+    "fft-js": "^0.0.12",
     "vibe": "file:"
   }
 }
