@@ -1,5 +1,5 @@
 var express = require('express'); 
-var app = express();
+const router = express.Router();
 
 //threshold.js 에서 NOISE_THRESHOLD 가져오기
 const {NOISE_THRESHOLD} = require('./threshold.js'); 
@@ -11,6 +11,7 @@ const noiseLevel = 80;
 //프론트에서 noiseLevel 받기
 app.post('/notifications/alert', (req, res) => {
     //const { noiseLevel } = req.body;
+
     //기준에 따라 소음여부 판단
     if (noiseLevel >= NOISE_THRESHOLD){
         console.log('소음으로 판단되었습니다');
@@ -21,4 +22,4 @@ app.post('/notifications/alert', (req, res) => {
         return res.status(200).json({ message: '소음 수치가 기준 이하입니다.' });
     }
 });
-module.exports = app;  // app 객체를 모듈로 내보냄
+module.exports = router;  // app 객체를 모듈로 내보냄
