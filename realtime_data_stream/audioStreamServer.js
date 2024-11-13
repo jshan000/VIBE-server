@@ -5,7 +5,7 @@ const axios = require('axios');
 
 var app = express();
 
-//http 서버 생성 및 socketio 서버와 바인딩
+//http 서버 생성 및 socketio 서버 바인딩
 const server = http.createServer(app);
 const io = socketIo(server);
 
