@@ -1,5 +1,5 @@
 from flask import Flask, request, jsonify
-import ai_model #이제 학습할 모델들
+import ai_model #이제 학습할 모델
 
 #Flask 애플리케이션 객체 생성
 app = Flask(__name__) 
