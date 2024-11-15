@@ -9,7 +9,7 @@ const {sendPushNotification} = require('./pushNotification.js');
 const noiseLevel = 80;
 
 //프론트에서 noiseLevel 받기
-app.post('/notifications/alert', (req, res) => {
+router.post('/notifications/alert', (req, res) => {
     //const { noiseLevel } = req.body;
 
     //기준에 따라 소음여부 판단
